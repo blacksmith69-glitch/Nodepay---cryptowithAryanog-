@@ -29,16 +29,8 @@ python app.py
 python script.py
 ```
 ## Platform to join with us
-- Telegram channel : @cryp2xyz
-- YouTube channel  : @nbprg
+- Telegram channel : @cryptowitharyanog
+- YouTube channel  : @crypto with aryan
 
 ## Contact with me 
-- Email    : novbh091@gmail.com
-- Telegram : @TataCuto
-
-## Support My work
-- Solana : `4RoRBBC4FUC5aN5MHVYSGnom12CRjVMsPHXVV9ANR4rg`
-- bep20 : `0xec46a2c4b1d00d6aa6d49d4da6354406645d46bb`
-
-- Binance : Scan It 👇
-<img src="https://raw.githubusercontent.com/nbprg/web/refs/heads/root/IMG_20241229_182230.png" alt="Image Description" width="500">
+- Telegram : @cryptowitharyanog
